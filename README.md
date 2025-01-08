@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="629" height="5120" src="https://github.com/ShrikerChestTrees/Arnis-NewLogo/blob/main/gitassets/logo.png?raw=true">
+  <img width="5120" height="629" src="https://github.com/ShrikerChestTrees/Arnis-NewLogo/blob/main/gitassets/logo.png?raw=true">
 </p>
 
 # Arnis [![CI Build Status](https://github.com/louis-e/arnis/actions/workflows/ci-build.yml/badge.svg)](https://github.com/louis-e/arnis/actions) [<img alt="GitHub Release" src="https://img.shields.io/github/v/release/louis-e/arnis" />](https://github.com/louis-e/arnis/releases) [<img alt="GitHub Downloads (all assets, all releases" src="https://img.shields.io/github/downloads/louis-e/arnis/total" />](https://github.com/louis-e/arnis/releases)
